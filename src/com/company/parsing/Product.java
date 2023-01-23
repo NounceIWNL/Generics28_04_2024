@@ -12,8 +12,7 @@ public class Product {
     //Code - generate - constructor (select all fields)
     public Product(String name, double calories, double proteins, double fats, double carbohydrates) {
 
-        this.name
-                = name;
+        this.name = name;
         this.calories = calories;
         this.proteins = proteins;
         this.fats = fats;
